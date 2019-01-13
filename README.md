@@ -1,0 +1,1 @@
+Training CNNs and ResNets on Tiny ImageNet, using Google Colab. Set up a [Colab](https://colab.research.google.com/) account, upload the notebook and run - no need to download the dataset. Tick GPU option in Runtime > Change runtime type Hardware accelerator, to enable the GPU.
